@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>储能科学与技术 — 最新发布</title>
+<link>https://www.energystorage-journal.com/zh/issues/</link>
+<description>《储能科学与技术》最新在线发布文章（标题、作者、摘要、DOI），由站点 sitemap 与文章页元信息生成。</description>
+<language>zh-cn</language>
+<ttl>360</ttl>
+<generator>energystorage-rss</generator>
+<item>
+<title>基于流道体积分配的电池液冷板拓扑优化</title>
+<link>https://www.energystorage-journal.com/zh/article/doi/10.19799/j.cnki.2095-4239.2026.0792/</link>
+<guid isPermaLink="true">https://www.energystorage-journal.com/zh/article/doi/10.19799/j.cnki.2095-4239.2026.0792/</guid>
+<description>针对冷却液沿程吸热升温导致下游换热能力减弱、液冷板前后区域散热不匹配及电池表面温度均匀性不足的问题，提出一种基于流道体积分配的液冷板拓扑优化方法。在总体流体体积分数保持不变的条件下，沿冷却液流动方向调控前、后区域的流道体积比例，以补偿冷却液沿程升温造成的下游冷却能力衰减。首先通过拓扑优化生成不同体积分配比例下的流道结构，随后基于6 g/s工况下的温度标准差和…</description>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>彭世广</dc:creator>
+<category>10.19799/j.cnki.2095-4239.2026.0792</category>
+</item>
+<item>
+<title>并网型风光氢储系统多目标优化及功率分配策略研究</title>
+<link>https://www.energystorage-journal.com/zh/article/doi/10.19799/j.cnki.2095-4239.2026.0748/</link>
+<guid isPermaLink="true">https://www.energystorage-journal.com/zh/article/doi/10.19799/j.cnki.2095-4239.2026.0748/</guid>
+<description>针对高比例风光接入下新能源消纳、运行经济性与电网依赖难以协调的问题，构建并网型风光氢储系统，建立以总收益最大、总成本最小和电网购电比例最小化为目标的多目标优化模型。将功率分配系数alpha设置为固定、四时段和逐时三种形式，用于比较不同决策粒度下的运行特性；针对高维决策下Pareto解集维护问题，引入外部非支配精英档案、近重复解剔除和拥挤距离维护机制改进多目标…</description>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>吕品</dc:creator>
+<category>10.19799/j.cnki.2095-4239.2026.0748</category>
+</item>
+<item>
+<title>高比能Li/CFx电池的电极设计及其构效关系研究</title>
+<link>https://www.energystorage-journal.com/zh/article/doi/10.19799/j.cnki.2095-4239.2026.0809/</link>
+<guid isPermaLink="true">https://www.energystorage-journal.com/zh/article/doi/10.19799/j.cnki.2095-4239.2026.0809/</guid>
+<description>锂/氟化碳（Li/CFx）电池理论比能量高达2180 Wh/kg，贮存寿命长、安全性好，在航空航天和军事装备等特种电源领域潜力巨大。然而，氟化碳材料本征电子电导率极低，导致电池功率密度不足、低温性能严重衰减，制约其工程化应用。针对该问题，本研究以软包Li/CFx电池为对象，从正极组成与压实密度及负极集流方式两方面开展系统优化：正极制备了纯CFx与纳米银（Ag…</description>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>万冰芯</dc:creator>
+<category>10.19799/j.cnki.2095-4239.2026.0809</category>
+</item>
+<item>
+<title>不同诱因下磷酸铁锂电池热失控多维特征量化范式及风险演化评估模型</title>
+<link>https://www.energystorage-journal.com/zh/article/doi/10.19799/j.cnki.2095-4239.2026.0825/</link>
+<guid isPermaLink="true">https://www.energystorage-journal.com/zh/article/doi/10.19799/j.cnki.2095-4239.2026.0825/</guid>
+<description>针对不同诱因下锂电池热失控过程中多维信号耦合复杂、失效阶段难以定量划分的问题，本文提出一种基于熵权融合驱动的锂电池热失控多维特征量化范式及风险演化评估模型。以100Ah磷酸铁锂电池为研究对象，开展了不同过充倍率、不同加热功率诱因下的热失控试验，同步采集电压、温度、力、一氧化碳及氢气数据；提出熵权融合偏移指数R(t)，利用不同物理量的信息熵和权重分配，构建热失…</description>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>赵梦杰</dc:creator>
+<category>10.19799/j.cnki.2095-4239.2026.0825</category>
+</item>
+<item>
+<title>不同预紧力对大容量方形LiNi0.5Co0.2Mn0.3O2电池热失控特性的影响对比研究</title>
+<link>https://www.energystorage-journal.com/zh/article/doi/10.19799/j.cnki.2095-4239.2026.0805/</link>
+<guid isPermaLink="true">https://www.energystorage-journal.com/zh/article/doi/10.19799/j.cnki.2095-4239.2026.0805/</guid>
+<description>预紧力作为大容量方形锂离子电池成组装配中的重要机械约束参数，对电芯结构稳定性及其异常状态下的安全响应具有重要影响。然而，机械约束对大容量三元方形电芯热失控安全性的影响仍不明确，尤其缺乏对热响应、机械响应及物质释放行为的特征和危害性分析。本文以117 Ah方形NCM523电芯为对象，在1、3、5和7kN初始预紧力条件下开展600 W单侧加热热失控试验，同步测量…</description>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>叶洪权</dc:creator>
+<category>10.19799/j.cnki.2095-4239.2026.0805</category>
+</item>
+<item>
+<title>单质硫热储能技术研究进展</title>
+<link>https://www.energystorage-journal.com/zh/article/doi/10.19799/j.cnki.2095-4239.2026.0896/</link>
+<guid isPermaLink="true">https://www.energystorage-journal.com/zh/article/doi/10.19799/j.cnki.2095-4239.2026.0896/</guid>
+<description>随着风电、光伏在电力系统中的渗透率不断提升，长时储能的需求开始激增，以熔盐储热为主的高温热储能技术可用于光热发电、电力调峰、工业供热等多个场景，是最具规模应用前景的长时储能技术之一。然而，当前的商用熔盐存在高温易分解、熔点偏高等问题，限制了其工作温域与应用范围。单质硫来源广、高温稳定性好、熔点低且成本低，在适宜的密闭条件下，可实现较熔盐温域更宽的液体储热，同…</description>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>周安康</dc:creator>
+<category>10.19799/j.cnki.2095-4239.2026.0896</category>
+</item>
+<item>
+<title>基于联邦学习和门控循环神经网络的锂电池健康状态估计</title>
+<link>https://www.energystorage-journal.com/zh/article/doi/10.19799/j.cnki.2095-4239.2026.0708/</link>
+<guid isPermaLink="true">https://www.energystorage-journal.com/zh/article/doi/10.19799/j.cnki.2095-4239.2026.0708/</guid>
+<description>针对传统集中式锂离子电池健康状态（SOH）估计方法依赖原始数据聚合所导致的隐私泄露风险与跨场景泛化能力不足问题，本文设计了一种基于联邦学习与门控循环单元（GRU）的分布式SOH估计框架。将健康特征工程、GRU时序建模与联邦学习进行协同集成，在不直接交换原始电池数据的条件下实现多客户端协同训练，并通过不同来源、不同类型电池数据验证模型的跨电池适用性。首先，从电…</description>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>陈峥</dc:creator>
+<category>10.19799/j.cnki.2095-4239.2026.0708</category>
+</item>
+<item>
+<title>锂离子电池热失控事故多维特征及社会认知度分析</title>
+<link>https://www.energystorage-journal.com/zh/article/doi/10.19799/j.cnki.2095-4239.2026.0642/</link>
+<guid isPermaLink="true">https://www.energystorage-journal.com/zh/article/doi/10.19799/j.cnki.2095-4239.2026.0642/</guid>
+<description>近年来，锂离子电池在电动车、储能电站等领域快速发展，但频发的热失控事故也引起了广泛关注。为系统剖析动力与储能锂离子电池热失控事故特征，本文采用文献与问卷调研以及人员访谈等相结合的方法，结合取样适切性（Kaiser-Meyer-Olkin，KMO）检验、Bartlett球形检验与探索性因子分析，对锂离子电池热失控事故特征与社会认知度等进行了研究。结果表明，动力…</description>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
+<dc:creator>石尚</dc:creator>
+<category>10.19799/j.cnki.2095-4239.2026.0642</category>
+</item>
+</channel>
+</rss>
